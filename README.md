@@ -20,3 +20,6 @@ O fluxo de trabalho seguiu os passos profissionais para análise de sensoriament
 3.  **Treinamento:** Coleta de amostras de treinamento para as 4 classes.
 4.  **Classificação (Machine Learning):** Treinamento de um classificador `smileRandomForest` com 50 árvores.
 5.  **Resultado:** Geração de um mapa de classificação final de 10m de resolução.
+
+
+LinkCode:https://code.earthengine.google.com/3c9c54bd7ef40673e167594979d48a05
